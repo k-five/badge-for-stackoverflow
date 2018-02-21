@@ -74,6 +74,25 @@ for me:  `<img src="https://raw.githubusercontent.com/k-five/s/master/a/pby-bfg.
 
 for me:  `![powered-by-badge-for-git](https://raw.githubusercontent.com/k-five/s/master/a/pby-bfg.svg?sanitize=true)`  
 
+<h3>Tip. add link to it</h3>
+
+by default if you add with an `<img>` tag or even `![]()` shortcut you cannot click on and the SVG files refers to **nowhere**  
+So if you want to add a link to it:
+
+for me:  
+```html
+<a href="https://github.com/k-five/badge-for-git">
+  <img src="https://raw.githubusercontent.com/k-five/s/master/a/pby-bfg.svg?sanitize=true" />
+</a>
+```
+
+with shortcut:  
+```
+[![](https://raw.githubusercontent.com/k-five/s/master/a/pby-bfg.svg?sanitize=true)]
+(https://github.com/k-five/badge-for-git)
+```
+
+
 <h3>result</h3>
 <a href="https://stackoverflow.com/users/4643584/shakiba-moshiri?tab=profile">My Profile on Stack-Overflow</a>
 
