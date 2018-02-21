@@ -4,16 +4,16 @@
 
 <h1>Hi</h1>
 
-During developing my app (= <a href="https://github.com/k-five/badge-for-git" >badge-for-git</a>) I realized that I can use these badges (= SVG files) on <a href="">my stack-overflow profile></a>  
+During developing my app (= <a href="https://github.com/k-five/badge-for-git" >badge-for-git</a>) I realized that I can use these badges (= SVG files) on <a href="">my stack-overflow profile</a>  
 So here is a guide for you that you can use it as well.  
 
-<h3>We you need:</h3>  
+<h3>What you need:</h3>  
 
  1. an account on **github.com** (for storing the SVG files)  
  2. create a repository (short name is preferable, mine is <a href="https://github.com/k-five/s">s</a>)  
  3. use <a href="https://github.com/k-five/badge-for-git" >badge-for-git</a> and create what you want  
- 4. follow the instructions I putted there (= step 1 through 6)  
- 5. the follow the below steps  
+ 4. follow the instructions I putted there (= on badge-for-git, step 1 through 6)  
+ 5. then follow the below steps  
 
 
 <img src="https://github.com/k-five/badge-for-git/blob/master/res/line/line5-900px-%23E1.svg" />
@@ -51,15 +51,15 @@ It consists of:
 
 <img src="bfs.4.png" />
 
- 1. this: `?sanitize=true`
- 2. press 'Enter'
+ 1. suffix: `?sanitize=true`
+ 2. press **Enter**
  3. if want to see a clean source-code, right-click add see: "view-source-page" (optional)
 
 <img src="https://github.com/k-five/badge-for-git/blob/master/res/line/line5-900px-%23E1.svg" />
 
 <h3>step.5 </h3>
 
- - go on your **stack-overflow** account on anywhere you like use an `img` HTML tag or use stack-overflow shortcut: `![file-name](file-URL)`
+go on your **stack-overflow** account on anywhere you like use an `img` HTML tag or use stack-overflow shortcut: `![file-name](file-URL)`
 
 
 <img src="https://github.com/k-five/badge-for-git/blob/master/res/line/line5-900px-%23F80.svg" />
@@ -73,5 +73,9 @@ for me:  `<img src="https://raw.githubusercontent.com/k-five/s/master/a/pby-bfg.
 
 for me:  `![powered-by-badge-for-git](https://raw.githubusercontent.com/k-five/s/master/a/pby-bfg.svg?sanitize=true)`  
 
+<h3>result</h3>
+<a href="https://stackoverflow.com/users/4643584/shakiba-moshiri?tab=profile">My Profile on Stack-Overflow</a>
 
+<h1>if</h1>
 
+you have any questions, ideas, problems, etc raise an issue on <a href="https://github.com/k-five/badge-for-git" >badge-for-git</a>
