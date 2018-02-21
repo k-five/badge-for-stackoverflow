@@ -76,7 +76,7 @@ for me:  `![powered-by-badge-for-git](https://raw.githubusercontent.com/k-five/s
 
 <h3>Tip. add link to it</h3>
 
-by default if you add with an `<img>` tag or even `![]()` shortcut you cannot click on and the SVG files refers to **nowhere**  
+by default if you add with an `<img>` tag or even `![]()` shortcut you cannot click on and the SVG file refers to **nowhere**  
 So if you want to add a link to it:
 
 for me:  
@@ -98,7 +98,8 @@ with shortcut:
 
 <h1>if</h1>
 
-you have any questions, ideas, problems, etc raise an issue on <a href="https://github.com/k-five/badge-for-git" >badge-for-git</a>
+ 1. you have any questions, ideas, problems, etc raise an issue on <a href="https://github.com/k-five/badge-for-git" >badge-for-git</a>
+ 2. you are curious about what **sanitize** does see <a href="https://www.w3schools.com/php/php_filter.asp">w3schools.com</a>
 
 <img src="https://github.com/k-five/badge-for-git/blob/master/res/line/line5-900px-%23E1.svg" />
 
