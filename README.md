@@ -16,13 +16,19 @@ So here is a guide for you that you can use it as well.
  5. the follow the below steps  
 
 
+<img src="https://github.com/k-five/badge-for-git/blob/master/res/line/line5-900px-%23E1.svg" />
+
 <h3>step.1 click on your own SVG-file</h3>  
 
 <img src="bfs.1.png" />
 
+<img src="https://github.com/k-five/badge-for-git/blob/master/res/line/line5-900px-%23E1.svg" />
+
 <h3>step.2 click on "Row" button</h3>
 
 <img src="bfs.2.png" />
+
+<img src="https://github.com/k-five/badge-for-git/blob/master/res/line/line5-900px-%23E1.svg" />
 
 <h3>step.3 see the source-code and notice to the "url"</h3>
 
@@ -39,13 +45,17 @@ It consists of:
  7. directory name, mine is `a`
  8. name of the SVG file, mine is `bpy-bfg.svg`
 
-<h3>step.4 </h3>
+<img src="https://github.com/k-five/badge-for-git/blob/master/res/line/line5-900px-%23E1.svg" />
+
+<h3>step.4  add suffix to the url</h3>
 
 <img src="bfs.4.png" />
 
  1. this: `?sanitize=true`
  2. press 'Enter'
  3. if want to see a clean source-code, right-click add see: "view-source-page" (optional)
+
+<img src="https://github.com/k-five/badge-for-git/blob/master/res/line/line5-900px-%23E1.svg" />
 
 <h3>step.5 </h3>
 
