@@ -24,7 +24,7 @@ So here is a guide for you that you can use it as well.
 
 <img src="https://github.com/k-five/badge-for-git/blob/master/res/line/line5-900px-%23E1.svg" />
 
-<h3>step.2 click on "Row" button</h3>
+<h3>step.2 click on "Raw" button</h3>
 
 <img src="bfs.2.png" />
 
@@ -37,13 +37,13 @@ So here is a guide for you that you can use it as well.
 It consists of:  
 
  1. `https://`  
- 2. `raw.`
- 3. `github` and `user` and `content` and `.com`  
+ 2. `raw.`  
+ 3. `github`, `user`, `content` and `.com`. altogether: `githubusercontent.com`  
  4. your user-name, mine is `k-five`  
  5. your repository name, mine is `s`  
  6. branch, mine is `master`  
- 7. directory name, mine is `a`
- 8. name of the SVG file, mine is `bpy-bfg.svg`
+ 7. directory name, mine is `a`  
+ 8. name of the SVG file, mine is `bpy-bfg.svg`  
 
 <img src="https://github.com/k-five/badge-for-git/blob/master/res/line/line5-900px-%23E1.svg" />
 
@@ -54,6 +54,7 @@ It consists of:
  1. suffix: `?sanitize=true`
  2. press **Enter**
  3. if want to see a clean source-code, right-click add see: "view-source-page" (optional)
+ 4. copy the URL
 
 <img src="https://github.com/k-five/badge-for-git/blob/master/res/line/line5-900px-%23E1.svg" />
 
@@ -79,3 +80,10 @@ for me:  `![powered-by-badge-for-git](https://raw.githubusercontent.com/k-five/s
 <h1>if</h1>
 
 you have any questions, ideas, problems, etc raise an issue on <a href="https://github.com/k-five/badge-for-git" >badge-for-git</a>
+
+<img src="https://github.com/k-five/badge-for-git/blob/master/res/line/line5-900px-%23E1.svg" />
+
+<h1>troubleshooting</h1>
+
+ - if you did not get the correct result, make user the **URL** is valid and correct, the `?sanitize=true` is vital!  
+ - if you changed a file (= SVG) or wanted to replace it, it is better to clean you **cache** otherwise may do do not get the result  
